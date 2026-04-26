@@ -1,5 +1,4 @@
 # Linux_Package_Installer
-# Linux Package Installer
 
 A simple and powerful GUI tool for installing applications on Debian-based systems like Kali Linux.
 
